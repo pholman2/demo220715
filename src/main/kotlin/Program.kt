@@ -6,6 +6,8 @@ fun main () {
     c.numberPlate = " ABC123 "
 }
 
+
+
 class Car{
 
     //field
