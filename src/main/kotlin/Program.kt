@@ -2,9 +2,8 @@ import java.time.LocalDateTime
 
 fun main () {
 
-    var c = Car();
+    val c = Car();
     c.numberPlate = " ABC123 "
-
 }
 
 class Car{
@@ -20,7 +19,6 @@ class Car{
         set(value){
             this._numberPlate = value
         }
-
 }
 
 
